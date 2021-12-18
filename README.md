@@ -6,7 +6,7 @@ Simple nuke bot, that deletes channels, emojis and roles
 I am not responsible for the use they give it, always use it for good reasons
 ## Usage
 - Run this command in CMD, terminal or PowerShell (if you don't already have the following modules installed):
-- To avoid problems use python 3.X.X
+- To avoid problems use python 3.8.X
 ```
 pip install -r requirements.txt
 ```
