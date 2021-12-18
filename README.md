@@ -22,3 +22,9 @@ My discord server: [K O I](https://dsc.gg/k-o-i)
 My discord user: JessVV#8274
 
 If you improve the code, could you text me? I am aware that the code has some bugs. Thanks
+
+## Preview
+
+<a>
+  <img align="left" width="400" src="https://github.com/Jess-Lux/Nuke-bot/blob/main/Preview.png?raw=true">
+</a>
